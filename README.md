@@ -1,0 +1,2 @@
+# logspout
+logspout config
